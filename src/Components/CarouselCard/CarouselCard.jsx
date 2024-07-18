@@ -1,5 +1,5 @@
 import React from "react";
-import "./CarouselCard/css";
+import "./CarouselCard.css";
 
 export const CarouselCard = () => {
   return (
